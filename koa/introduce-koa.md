@@ -27,4 +27,4 @@ Async 함수와 바벨를 함께 사용하기 위해서는 바벨-코어-레지�
 `const app = require(‘./app’);`
 
 #### .babelrc
-`{ “plugins”: [“transfrom-async-to-generator”] } 
+`{ “plugins”: [“transfrom-async-to-generator”] }`

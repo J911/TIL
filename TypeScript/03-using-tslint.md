@@ -13,7 +13,7 @@ $ tslint --init // 설정파일 생성
 ### vscode 설정
 #### vscode extention 설치
     1. cmd + p 
-    2. **ext install tslint** 설치
+    2. ext install tslint 설치
 
 ### inteliJ
 - `preferences` > `typescript` >  `tslint`로 설정 

@@ -8,6 +8,7 @@
 - [Github-Flavoured Markdown](https://guides.github.com/features/mastering-markdown/)으로 문서를 작성한다.
 - 간결하고 핵심을 기본으로 한다.
 - 참고한 레퍼런스를 링크로 기록한다.
+- 작성이 완료되면 [til-vuepress](https://github.com/J911/til-vuepress)로 빌드하여 [j911.me](https://j911.me)에 업로드한다.
 
 ## 분류
 ### koa

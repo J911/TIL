@@ -1,4 +1,4 @@
-# webRTC-description-ko
+# webRTC-tutorial
 
 해보지 않았던 라이브러리다 보니 막하는 부분부터 너무 많아서 예제 소스들을 찾아봤다.(아래 레퍼런스 참고)
 

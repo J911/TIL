@@ -1,8 +1,8 @@
 # Network Models
 
 ## OSI 모델
-![02-OSI-model](./02-OSI-model.png)
-![02-logical_connection](./02-logical_connection.jpeg)
+![02-OSI-model](./images/02-OSI-model.png)
+![02-logical_connection](./images/02-logical_connection.jpeg)
 
 ## OSI모델의 한계
 - TCP/IP이외의 다른 모델로의 변경은 많은 비용이 필요

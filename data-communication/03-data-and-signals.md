@@ -39,7 +39,7 @@
     SNR = (signal power)/(noise) 
     ```
 
-![03-SNR](./03-SNR.png)
+![03-SNR](./images/03-SNR.png)
 
 - Nyquist rate (Maximun 비트레이스를 구할 수 있음(노이즈 고려 안함))
     ```

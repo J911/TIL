@@ -7,12 +7,12 @@
 - Telephone network에 사용
 - Circuit switch system
     - n개의 입력과 m개의 출력을 갖는 장치
-    ![07-Circuit-switch](07-Circuit-switch.png)
+    ![07-Circuit-switch](./images/07-Circuit-switch.png)
 ## packet switching
 - 통신망에서 데이터를 전송할 때 사전에 회선의 결정이 이루어지지 않음
 - 각각의 패킷별로 주소 (IP)를 갖고 목적지를 찾아간다
 - 회선을 점유하지 않기 때문에 효율적
-![07-packet-switch](./07-packet-switch.png)
+![07-packet-switch](./images/07-packet-switch.png)
 
 ## Virtual circuit network(가상 회선 망)
 - 회선 교환과 데이타그램 네트워크를 섞은 형태
@@ -20,7 +20,7 @@
 - 자원이 설정 단계에서 할당되거나 필요에 따라 할당될 수 있음
 - 데이타의 전송은 패킷과 같이 헤더에 주소를 담아 목적지를 찾아 감
 - 연결이 설정되고나면 모든 패킷은 같은경로를 따라 전송된다
-![07-VCI](./07-VCI.png)
+![07-VCI](./images/07-VCI.png)
 
 ## 레퍼런스
 - Data Communications ans Networking (Behrousz A. Forouzan)

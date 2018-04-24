@@ -33,3 +33,7 @@
 - [02-network-models](https://github.com/J911/TIL/blob/master/data-communication/02-network-models.md)
 - [03-data-and-signals](https://github.com/J911/TIL/blob/master/data-communication/03-data-and-signals.md)
 - [04-digital-transmission](https://github.com/J911/TIL/blob/master/data-communication/04-digital-transmission.md)
+- [05-analog-transmission](https://github.com/J911/TIL/blob/master/data-communication/05-analog-transmission.md)
+- [06-bandwidth-utilization](https://github.com/J911/TIL/blob/master/data-communication/06-bandwidth-utilization.md)
+- [07-switching](https://github.com/J911/TIL/blob/master/data-communication/07-switching.md)
+- [08-arp](https://github.com/J911/TIL/blob/master/data-communication/08-arp.md)

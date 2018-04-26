@@ -1,7 +1,7 @@
 # 텐서플로우 설치하기
 
 ## 설치하기
-macOS High Sierra버전에서 pip를 통해 턴서플로우를 설치하는 법
+macOS High Sierra버전에서 pip를 통해 텐서플로우를 설치하는 법
 
 pip 설치
 ```
@@ -23,7 +23,7 @@ Cannot uninstall 'numpy'. It is a distutils installed project and thus we cannot
 
 아래 코드로 설치하니 설치가 됬다.
 ```
-sudo pip install --ignore-installed numpy
+sudo pip install --ignore-installed tensorflow
 ```
 ## 레퍼런스
 - [https://www.tensorflow.org/install/install_mac#common_installation_problems](https://www.tensorflow.org/install/install_mac#common_installation_problems)

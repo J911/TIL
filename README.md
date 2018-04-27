@@ -17,6 +17,9 @@
 ### webpack
 - [how-to-setting-webpack](https://j911.me/til/webpack/how-to-setting-webpack.html)
 
+### tensorflow
+- [tensorflow-install](https://j911.me/til/tensorflow/tensorflow-install.html)
+
 ### webRTC
 - [webRTC-tutorial](https://j911.me/til/webpack/how-to-setting-webpack.html)
 
@@ -37,3 +40,6 @@
 - [06-bandwidth-utilization](https://j911.me/til/data-communication/06-bandwidth-utilization.html)
 - [07-switching](https://j911.me/til/data-communication/07-switching.html)
 - [08-arp](https://j911.me/til/data-communication/08-arp.html)
+
+### etc
+ - [install-zsh](https://j911.me/til/etc/install-zsh.html)

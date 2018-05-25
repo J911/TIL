@@ -1,7 +1,9 @@
 # Today I Learned
 - [J911](https://github.com/J911)이 배우고, 경험한 것을 기록으로 남긴다.
+- ~~*TIL이라 쓰고 B(before)IL이라고 읽는다..*~~
 
 [namjunemy](https://github.com/namjunemy)님의 Github TIL을 보고 많은 영감을 얻었다.
+
 
 ## 작성법
 - 폴더와 파일명은 영문으로 작성한다.

@@ -1,7 +1,9 @@
 # Today I Learned
 - [J911](https://github.com/J911)이 배우고, 경험한 것을 기록으로 남긴다.
+- ~~*TIL이라 쓰고 B(before)IL이라고 읽는다..*~~
 
 [namjunemy](https://github.com/namjunemy)님의 Github TIL을 보고 많은 영감을 얻었다.
+
 
 ## 작성법
 - 폴더와 파일명은 영문으로 작성한다.
@@ -12,16 +14,16 @@
 
 ## 분류
 ### Koa
-- [introduce-koa](https://j911.me/til/Koa/introduce-koa.html)
+- [introduce-koa](https://j911.me/til/koa/introduce-koa.html)
 
 ### Webpack
-- [how-to-setting-webpack](https://j911.me/til/Webpack/how-to-setting-webpack.html)
+- [how-to-setting-webpack](https://j911.me/til/webpack/how-to-setting-webpack.html)
 
 ### Tensorflow
-- [tensorflow-install](https://j911.me/til/Tensorflow/tensorflow-install.html)
+- [tensorflow-install](https://j911.me/til/tensorflow/tensorflow-install.html)
 
 ### WebRTC
-- [webRTC-tutorial](https://j911.me/til/WebRTC/webRTC-tutorial.html)
+- [webRTC-tutorial](https://j911.me/til/webRTC/webRTC-tutorial.html)
 
 ### TypeSript
 - [01-TypeScript-overview](https://j911.me/til/TypeScript/01-TypeScript-overview.html)
@@ -29,20 +31,20 @@
 - [03-using-tslint](https://j911.me/til/TypeScript/03-using-tslint.html)
 
 ### Vuepress
-- [01-easy-start.md](https://j911.me/til/Vuepress/01-easy-start.html)
+- [01-easy-start.md](https://j911.me/til/vuepress/01-easy-start.html)
 
 ### Data-communication
-- [01-introduction](https://j911.me/til/Data-communication/01-introduction.html)
-- [02-network-models](https://j911.me/til/Data-communication/02-network-models.html)
-- [03-data-and-signals](https://j911.me/til/Data-communication/03-data-and-signals.html)
-- [04-digital-transmission](https://j911.me/til/Data-communication/04-digital-transmission.html)
-- [05-analog-transmission](https://j911.me/til/Data-communication/05-analog-transmission.html)
-- [06-bandwidth-utilization](https://j911.me/til/Data-communication/06-bandwidth-utilization.html)
-- [07-switching](https://j911.me/til/Data-communication/07-switching.html)
-- [08-arp](https://j911.me/til/Data-communication/08-arp.html)
+- [01-introduction](https://j911.me/til/data-communication/01-introduction.html)
+- [02-network-models](https://j911.me/til/data-communication/02-network-models.html)
+- [03-data-and-signals](https://j911.me/til/data-communication/03-data-and-signals.html)
+- [04-digital-transmission](https://j911.me/til/data-communication/04-digital-transmission.html)
+- [05-analog-transmission](https://j911.me/til/data-communication/05-analog-transmission.html)
+- [06-bandwidth-utilization](https://j911.me/til/data-communication/06-bandwidth-utilization.html)
+- [07-switching](https://j911.me/til/data-communication/07-switching.html)
+- [08-arp](https://j911.me/til/data-communication/08-arp.html)
 
 ### Algorism
-- [HashTable](https://github.com/J911/TIL/blob/master/Algorism/HashTable.md)
+- [HashTable](https://github.com/J911/TIL/blob/master/algorism/HashTable.md)
 
 ### Etc
- - [install-zsh](https://j911.me/til/Etc/install-zsh.html)
+ - [install-zsh](https://j911.me/til/etc/install-zsh.html)

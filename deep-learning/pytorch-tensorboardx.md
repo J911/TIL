@@ -5,6 +5,8 @@ $ pip install tensorboard
 $ pip install tensorboardX
 ```
 
+code 
+
 ```python
 
 from tensorboardX import SummaryWriter
@@ -18,4 +20,11 @@ writer.add_scalar('test acc', 100. * correct / total,epoch)
 writer.add_scalar('test loss',test_loss,epoch)
 
 # ...
+```
+
+
+run
+
+```
+tensorboard --port 7561 --logdir=./log_dir
 ```

@@ -8,7 +8,7 @@
     - Predict Bounding box 
     
 ## Fast R-CNN
-- Consolidate 3 separate networks into one
+- Integration 3 separate networks into one
 
 ### STEPs..
 1. initial RoI (Selective search)

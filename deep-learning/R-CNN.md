@@ -13,7 +13,7 @@ Region Proposals Convolution Neural Networks
 ### R-CNN STEPS
 1. Detection Object box
 2. Cropping Object Box and resize(wrap) to a normalized size
-3. Passing CNN
+3. Passing CNN to each every normalized image
 4. Predict Position and classified Object
 
 
